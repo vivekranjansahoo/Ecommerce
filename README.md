@@ -1,4 +1,4 @@
-# Ecommerce
+# Ecommerce Tech Shop
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b60U1tl0C6g/0.jpg)](https://www.youtube.com/watch?v=b60U1tl0C6g)
 
@@ -7,7 +7,7 @@
 ![My animated logo](image/home1.PNG)
 ![My animated logo](image/home2.PNG)
 ![My animated logo](image/home3.PNG)
-![My animated logo](image/home% 4.PNG)
+![My animated logo](image/home4.PNG)
 
 
 <b>User Register </b>
