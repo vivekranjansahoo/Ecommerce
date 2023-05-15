@@ -51,7 +51,9 @@
 <b>User FeedBack</b>
 
 ![vivek](image/msg.PNG)
+![vivek](image/msgsent.PNG)
 ![vivek](image/mss.PNG)
+
 
 <b>Admin Login</b>
 
@@ -90,4 +92,4 @@
 ![vivek](image/msg1.PNG)
 ![vivek](image/msg2.PNG)
 ![vivek](image/msgadmin.PNG)
-![vivek](image/msgsent.PNG)
+
