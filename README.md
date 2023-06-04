@@ -48,6 +48,14 @@
 
 ![vivek](image/useroerder.PNG)
 
+<b>User Profile</b>
+
+![vivek](image/userprofile.PNG)
+
+<b>User Change password</b>
+
+![vivek](image/changepass.PNG)
+
 <b>User FeedBack</b>
 
 ![vivek](image/msg.PNG)
